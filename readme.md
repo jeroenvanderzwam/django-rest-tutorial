@@ -1,0 +1,1 @@
+Simple django-rest tutorial walkthrough with extensions, like testing and OpenAPI schema generation.
